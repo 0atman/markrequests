@@ -2,7 +2,7 @@
 
 A plain-text Issue and PR tracking system.
 
-An example of a file to track these is in [[prs/example.md]]
+An example of a file to track these is in [prs/example.md](https://github.com/0atman/markrequests/blob/main/prs/example.md)
 
 ## Rationale
 
