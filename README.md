@@ -1,10 +1,12 @@
+## Development and discussion on the [Project](https://github.com/users/0atman/projects/3)
+
 # Markrequests
 
 A plain-text Issue and PR tracking system.
 
 An example of a file to track these is in [prs/example.md](https://github.com/0atman/markrequests/blob/main/prs/example.md)
 
-## Development and discussion on the [Project](https://github.com/users/0atman/projects/3)
+
 
 ## Rationale
 
