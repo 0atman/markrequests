@@ -4,6 +4,8 @@ A plain-text Issue and PR tracking system.
 
 An example of a file to track these is in [prs/example.md](https://github.com/0atman/markrequests/blob/main/prs/example.md)
 
+## Development and discussion on the [Project](https://github.com/users/0atman/projects/3)
+
 ## Rationale
 
 I am unsatisfied with the conclusions I reached in my "Plain Text Teams" video. (https://www.youtube.com/watch?v=WgV6M1LyfNY) It's difficult to separate my desire for purity in doing as much in plain-text as possible, with the practicality that GitHub (and other web hosts) have some features you're not going to want to miss, but can't yet get in plain text.  
